@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.11.1](https://github.com/asdf-vm/asdf/compare/v0.11.0...v0.11.1) (2022-12-21)
+
+
+### Bug Fixes
+
+* `reshim` did not rewrite executable path ([#1311](https://github.com/asdf-vm/asdf/issues/1311)) ([5af7625](https://github.com/asdf-vm/asdf/commit/5af76257693d1f560b9c27c9cdcc6f5a5a33c4d5))
+* Ban use of 'test' ([#1383](https://github.com/asdf-vm/asdf/issues/1383)) ([ec972cb](https://github.com/asdf-vm/asdf/commit/ec972cbdf0acbecf70e3678c055e27866c49341d))
+* Remove unecessary backslashes ([#1384](https://github.com/asdf-vm/asdf/issues/1384)) ([15faf93](https://github.com/asdf-vm/asdf/commit/15faf93a0d3615834e550ea1562fb6b8cee5a205))
+
 ## [0.11.0](https://github.com/asdf-vm/asdf/compare/v0.10.2...v0.11.0) (2022-12-12)
 
 
